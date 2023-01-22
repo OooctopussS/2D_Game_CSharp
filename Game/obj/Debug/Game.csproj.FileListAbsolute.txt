@@ -1,0 +1,30 @@
+D:\progSharp\projects\Game\Game\bin\Debug\Game.exe.config
+D:\progSharp\projects\Game\Game\bin\Debug\Game.exe
+D:\progSharp\projects\Game\Game\bin\Debug\Game.pdb
+D:\progSharp\projects\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\progSharp\projects\Game\Game\obj\Debug\Game.MainWindow.resources
+D:\progSharp\projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\progSharp\projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\progSharp\projects\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\progSharp\projects\Game\Game\obj\Debug\Game.exe
+D:\progSharp\projects\Game\Game\obj\Debug\Game.pdb
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\bin\Debug\Game.exe.config
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\bin\Debug\Game.exe
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\bin\Debug\Game.pdb
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.MainWindow.resources
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.exe
+C:\Users\User\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.pdb
+D:\progSharp\Game\Game\bin\Debug\Game.exe.config
+D:\progSharp\Game\Game\bin\Debug\Game.exe
+D:\progSharp\Game\Game\bin\Debug\Game.pdb
+D:\progSharp\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\progSharp\Game\Game\obj\Debug\Game.MainWindow.resources
+D:\progSharp\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\progSharp\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\progSharp\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\progSharp\Game\Game\obj\Debug\Game.exe
+D:\progSharp\Game\Game\obj\Debug\Game.pdb

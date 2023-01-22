@@ -1,0 +1,14 @@
+BackGround;MainMenu_bg;0/0/1920/1080;0/0/677/320;bg
+Platform;DisplayStart;749,76/508,14/420,48/63,72;0/0/420/64;DisplayStart
+Platform;DisplayExit;1421,76/994,14/420,48/63,72;0/0/420/64;DisplayExit
+Platform;DisplayScore;77,76/994,14/420,48/63,72;0/0/420/64;DisplayScore
+Platform;PlatformMenu;622,08/184,14/675,84/63,72;0/0/676/64;GameObject
+Platform;PlatformMenu;26,01599/318,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;1562,016/318,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;326,112/426,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;1261,92/426,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;326,112/642,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;1261,92/642,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;26,01599/750,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;1562,016/750,06/331,968/11,88;8/0/332/12;SPlatform
+Platform;PlatformMenu;622,08/940,14/675,84/63,72;0/0/676/64;GameObject

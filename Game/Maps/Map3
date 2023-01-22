@@ -1,0 +1,14 @@
+BackGround;Map2_bg;0/0/1920/1080;0/0/256/256;bg
+Platform;tundraLong;16,992/196,02/350,016/39,96;0/0/350/40;GameObject
+Platform;tundraLong;16,992/574,02/350,016/39,96;0/0/350/40;GameObject
+Platform;tundraLong;16,992/952,02/350,016/39,96;0/0/350/40;GameObject
+Platform;tundraLong;1552,992/196,02/350,016/39,96;0/0/350/40;GameObject
+Platform;tundraLong;1552,992/574,02/350,016/39,96;0/0/350/40;GameObject
+Platform;tundraLong;1552,992/952,02/350,016/39,96;0/0/350/40;GameObject
+Platform;tundraLong;662,976/368,01/210,048/19,98;0/0/210/40;SPlatform
+Platform;tundraLong;662,976/746,01/210,048/19,98;0/0/210/40;SPlatform
+Platform;tundraLong;854,976/530,01/210,048/19,98;0/0/210/40;SPlatform
+Platform;tundraLong;854,976/908,01/210,048/19,98;0/0/210/40;SPlatform
+Platform;tundraLong;854,976/206,01/210,048/19,98;0/0/210/40;SPlatform
+Platform;tundraLong;1046,976/368,01/210,048/19,98;0/0/210/40;SPlatform
+Platform;tundraLong;1046,976/746,01/210,048/19,98;0/0/210/40;SPlatform
